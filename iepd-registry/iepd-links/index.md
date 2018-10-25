@@ -20,4 +20,4 @@ This page provides links to the following other sources of NIEM conformant IEPDs
 
 :   The NISS IEPD and Justice Standards Clearinghouse provides information on a variety of IEPDs and Justice Standards that have been submitted by individuals and organizations who have implemented the Global Justice XML Data Model (Global JXDM) and the National Information Exchange Model (NIEM).
 
-For information about NIEM, please visit <www.NIEM.gov>. To have your IEPD posted to the NIEM IEPD Registry or for other questions or comments, please [contact us](https://www.niem.gov/contact-us). 
+For information about NIEM, please visit [www.NIEM.gov](www.NIEM.gov). To have your IEPD posted to the NIEM IEPD Registry or for other questions or comments, please [contact us](https://www.niem.gov/contact-us). 
