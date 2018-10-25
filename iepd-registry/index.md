@@ -11,6 +11,6 @@ Welcome to the NIEM Information Exchange Package Documentation (IEPD) Registry. 
 
 While posting your IEPD(s) to this registry is optional, to encourage and support reuse, we strongly recommend that you do.
 
-For information about NIEM, please visit [www.NIEM.gov](www.NIEM.gov). To have your IEPD posted to the NIEM IEPD Registry or for other questions or comments, please [contact us](https://www.niem.gov/contact-us). 
+For information about NIEM, please visit [www.NIEM.gov](https://www.niem.gov/). To have your IEPD posted to the NIEM IEPD Registry or for other questions or comments, please [contact us](https://www.niem.gov/contact-us). 
 
 {% include icon-list.html links=page.links %}
