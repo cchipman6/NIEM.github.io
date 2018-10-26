@@ -1,7 +1,7 @@
 ---
 title: External IEPD Sources
 icon: fa-external-link
-description: A list of links to external sources of NIEM based Information Exchange Package Documentation (IEPDs).
+description: A list of links to external sources of Information Exchange Package Documentation (IEPDs).
 ---
 
 Welcome to the NIEM Information Exchange Package Documentation (IEPD) Registry. 
