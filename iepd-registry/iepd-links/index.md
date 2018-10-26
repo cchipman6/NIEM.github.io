@@ -1,12 +1,12 @@
 ---
-title: Other IEPD Links
+title: External IEPD Sources
 icon: fa-external-link
-description: A list of links to other sources of NIEM conformant Information Exchange Package Documentation (IEPDs).
+description: A list of links to external sources of NIEM based Information Exchange Package Documentation (IEPDs).
 ---
 
 Welcome to the NIEM Information Exchange Package Documentation (IEPD) Registry. 
 
-This page provides links to the following other sources of NIEM conformant IEPDs:
+This page provides links to the following external sources of IEPDs:
 
 [Administration for Children & Families](https://www.acf.hhs.gov/completed-information-exchange-packet-documentation-iepd)
 
